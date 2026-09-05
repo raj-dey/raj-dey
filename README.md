@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-Hello and welcome! I'm **Raj Dey**, a Computer Science & Engineering undergraduate at **Assam Down Town University (ADTU)**. I am passionate about designing and building high-performance web applications, modern AI architectures, and intelligent cloud systems.
+Hello and welcome! I'm **Raj Dey**, a Computer Science & Engineering undergraduate at **Assam Down Town University (AdtU)**. I am passionate about designing and building high-performance web applications, modern AI architectures, and intelligent cloud systems.
 
 I specialize in identifying operational and architectural bottlenecks—from university cafeteria congestion to enterprise document synthesis—and engineering scalable, production-ready digital solutions.
 
