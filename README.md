@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/raj-dey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+%40+Assam+Down+Town+University;Full-Stack+Web+%26+Cloud+Software+Engineer;Skills+in+Python+,+C+,+Java+,+Nodejs+,+React;Building+High-Performance+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+%40+Assam+Down+Town+University;Full-Stack+Web+%26+Cloud+Software+Engineer;Skills+in+Python+C+Java+Nodejs+React;Building+High-Performance+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <!-- Quick Socials & Contact Badges -->
