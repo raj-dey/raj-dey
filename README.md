@@ -1,18 +1,127 @@
-# 💫 About Me:
-B. tech CSE | WebDev & Cyber security | built Web Apps | Skills in Python, C , Java, Node, React |
+<div align="center">
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Raj%20Dey&fontSize=70&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20AI%20%26%20RAG%20Architect%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Header Banner"/>
 
+  <br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajdey.1?igsh=MWZ4azQwczRmN2dyZA==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajdey. Btcs@adtu.in) 
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/raj-dey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+%40+Assam+Down+Town+University;Full-Stack+Web+%26+Cloud+Software+Engineer;Enterprise+RAG+%26+Applied+AI+Systems;Building+High-Performance+Scalable+Solutions" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raj-dey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raj-dey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-dey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Quick Socials & Contact Badges -->
+  <p align="center">
+    <a href="mailto:rajdey.btcs@adtu.in"><img src="https://img.shields.io/badge/Email-rajdey.btcs%40adtu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/raj-dey"><img src="https://img.shields.io/badge/GitHub-raj--dey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.instagram.com/rajdey.1"><img src="https://img.shields.io/badge/Instagram-%40rajdey.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.linkedin.com/in/raj-dey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
+
+  <!-- Profile Status & Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=flat-square&logo=git&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Enterprise%20AI-6366F1?style=flat-square&logo=openai&logoColor=white" alt="Focus"/>
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=raj-dey&icon=0&color=0" alt="Visitor Count"/></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raj-dey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+Hello and welcome! I'm **Raj Dey**, a Computer Science & Engineering undergraduate at **Assam Down Town University (ADTU)**. I am passionate about designing and building high-performance web applications, modern AI architectures, and intelligent cloud systems.
+
+I specialize in identifying operational and architectural bottlenecks—from university cafeteria congestion to enterprise document synthesis—and engineering scalable, production-ready digital solutions.
+
+- 🎓 **Education**: B.Tech in Computer Science & Engineering, Assam Down Town University
+- 🔭 **Current Focus**: Enterprise-grade Retrieval-Augmented Generation (RAG) platforms & real-time campus management software
+- 🌱 **Deepening Knowledge**: Two-Stage Vector Retrieval, Cross-Encoder Reranking, React 19, Cloud Firestore, and System Architecture
+- 🛡️ **Core Interests**: Full-Stack Web Development, Cloud Computing, Generative AI & Cybersecurity
+- 💡 **Engineering Philosophy**: Writing maintainable, performant, and secure code that delivers real-world impact
+- 📬 **Direct Contact**: Reach out anytime at [`rajdey.btcs@adtu.in`](mailto:rajdey.btcs@adtu.in)
+
+---
+
+## 🚀 Featured Flagship Projects
+
+| Project | Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **⚡ Enterprise Production RAG System** | `Python` `FastAPI` `Qdrant` `Gemini` `Streamlit` | Enterprise-grade document search & synthesis engine featuring multi-format ingestion (PDF, DOCX, TXT, CSV), 2-stage vector search with BGE cross-encoder reranking, strict citation grounding, and real-time cost/latency analytics. | [💻 Repository](https://github.com/raj-dey/rag_project)<br/>[🌐 Live Demo](https://ragproject-raj-dey.streamlit.app) |
+| **🍽️ Jirone — Smart Canteen Management System** | `JavaScript` `Firebase` `Firestore` `Cloud` | Campus-wide dining platform engineered for Assam Down Town University to eliminate long queues and streamline kitchen operations with live order tracking and staff dashboards. | [💻 Repository](https://github.com/raj-dey/Jirone---Smart-Canteen-Management-System)<br/>[🌐 Live Demo](https://raj-dey.github.io/Jirone---Smart-Canteen-Management-System/) |
+| **🎓 Smart Examination Portal** | `React 19` `Firebase` `Gemini AI` `Firestore` | Next-generation cloud-native Computer-Based Test (CBT) and exam management platform with AI-assisted proctoring controls, student examination workflows, and automated evaluation. | [💻 Repository](https://github.com/raj-dey/smart-examination-portal) |
+| **🍿 Sportoflix** | `JavaScript` `HTML5` `CSS3` `REST APIs` | High-energy sports streaming, live scores, and news discovery web application with responsive media cards and real-time feed updates. | [💻 Repository](https://github.com/raj-dey/Sportoflix) |
+
+---
+
+## 💻 Tech Stack & Tooling
+
+### 🌐 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### 🗄️ Databases & Vector Stores
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/Firebase_Realtime_DB-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Realtime DB" />
+  <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+</p>
+
+### ☁️ Cloud, AI & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+</p>
+
+### 🛠️ Developer Tools & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+</p>
+
+---
+
+## 📊 GitHub Metrics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-stats-alpha.vercel.app/api?username=raj-dey&theme=tokyonight&hide_border=true" alt="Raj Dey's GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com?user=raj-dey&theme=tokyonight&hide_border=true" alt="Raj Dey's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj-dey&theme=tokyonight" alt="Languages Distribution" />
+</div>
+
+---
+
+<div align="center">
+  <p>⚡ <i>"Turning complex ideas into scalable, production-grade software."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=100&section=footer" width="100%" alt="Footer Wave"/>
+</div>
