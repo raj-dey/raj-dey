@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Raj%20Dey&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Enterprise%20RAG%20and%20AI%20Architect&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Raj Dey Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Raj%20Dey&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Raj Dey Header Banner"/>
 
   <br/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/raj-dey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+%40+Assam+Down+Town+University;Full-Stack+Web+%26+Cloud+Software+Engineer;Enterprise+RAG+%26+Applied+AI+Systems;Building+High-Performance+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=B.Tech+CSE+%40+Assam+Down+Town+University;Full-Stack+Web+%26+Cloud+Software+Engineer;Skills+in+26%+Python+,+C+,+Java+,+Nodejs+,+React;Building+High-Performance+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <!-- Quick Socials & Contact Badges -->
@@ -31,25 +31,10 @@
 
 Hello and welcome! I'm **Raj Dey**, a Computer Science & Engineering undergraduate at **Assam Down Town University (AdtU)**. I am passionate about designing and building high-performance web applications, modern AI architectures, and intelligent cloud systems.
 
-I specialize in identifying operational and architectural bottlenecks—from university cafeteria congestion to enterprise document synthesis—and engineering scalable, production-ready digital solutions.
-
 - 🎓 **Education**: B.Tech in Computer Science & Engineering, Assam Down Town University
-- 🔭 **Current Focus**: Enterprise-grade Retrieval-Augmented Generation (RAG) platforms & real-time campus management software
-- 🌱 **Deepening Knowledge**: Two-Stage Vector Retrieval, Cross-Encoder Reranking, React 19, Cloud Firestore, and System Architecture
 - 🛡️ **Core Interests**: Full-Stack Web Development, Cloud Computing, Generative AI & Cybersecurity
 - 💡 **Engineering Philosophy**: Writing maintainable, performant, and secure code that delivers real-world impact
 - 📬 **Direct Contact**: Reach out anytime at [`rajdey.btcs@adtu.in`](mailto:rajdey.btcs@adtu.in)
-
----
-
-## 🚀 Featured Flagship Projects
-
-| Project | Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **⚡ Enterprise Production RAG System** | `Python` `FastAPI` `Qdrant` `Gemini` `Streamlit` | Enterprise-grade document search & synthesis engine featuring multi-format ingestion (PDF, DOCX, TXT, CSV), 2-stage vector search with BGE cross-encoder reranking, strict citation grounding, and real-time cost/latency analytics. | [💻 Repository](https://github.com/raj-dey/rag_project)<br/>[🌐 Live Demo](https://ragproject-raj-dey.streamlit.app) |
-| **🍽️ Jirone — Smart Canteen Management System** | `JavaScript` `Firebase` `Firestore` `Cloud` | Campus-wide dining platform engineered for Assam Down Town University to eliminate long queues and streamline kitchen operations with live order tracking and staff dashboards. | [💻 Repository](https://github.com/raj-dey/Jirone---Smart-Canteen-Management-System)<br/>[🌐 Live Demo](https://raj-dey.github.io/Jirone---Smart-Canteen-Management-System/) |
-| **🎓 Smart Examination Portal** | `React 19` `Firebase` `Gemini AI` `Firestore` | Next-generation cloud-native Computer-Based Test (CBT) and exam management platform with AI-assisted proctoring controls, student examination workflows, and automated evaluation. | [💻 Repository](https://github.com/raj-dey/smart-examination-portal) |
-| **🍿 Sportoflix** | `JavaScript` `HTML5` `CSS3` `REST APIs` | High-energy sports streaming, live scores, and news discovery web application with responsive media cards and real-time feed updates. | [💻 Repository](https://github.com/raj-dey/Sportoflix) |
 
 ---
 
