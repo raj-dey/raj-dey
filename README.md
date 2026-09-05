@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Raj%20Dey&fontSize=70&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20AI%20%26%20RAG%20Architect%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Raj%20Dey&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Enterprise%20RAG%20and%20AI%20Architect&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Raj Dey Header Banner"/>
 
   <br/>
 
@@ -21,7 +21,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=flat-square&logo=git&logoColor=white" alt="Status"/>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Enterprise%20AI-6366F1?style=flat-square&logo=openai&logoColor=white" alt="Focus"/>
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=raj-dey&icon=0&color=0" alt="Visitor Count"/></a>
+    <img src="https://komarev.com/ghpvc/?username=raj-dey&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 </div>
 
