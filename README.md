@@ -20,7 +20,6 @@
   <!-- Profile Status & Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=flat-square&logo=git&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Enterprise%20AI-6366F1?style=flat-square&logo=openai&logoColor=white" alt="Focus"/>
     <img src="https://komarev.com/ghpvc/?username=raj-dey&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 </div>
